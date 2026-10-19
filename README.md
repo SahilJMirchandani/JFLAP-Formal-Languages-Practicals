@@ -4,8 +4,8 @@ This repository contains JFLAP models and diagram snapshots created while practi
 
 ## How to use these files
 
-- **`.jff` files** are the editable JFLAP files. Open them with JFLAP to inspect states, transitions, productions, or machine behavior.
-- **`.jff.jpg` files** are visual snapshots of the corresponding practicals.
+- **`.jff` files** are editable JFLAP files. Open them with JFLAP to inspect states, transitions, productions, or machine behavior.
+- **Diagram snapshots** (`.jff.jpg` and `.svg` files) provide visual references for the corresponding practicals.
 - When reviewing a model, run representative accepted and rejected inputs in JFLAP to confirm its behavior.
 
 ## Practical index
@@ -19,8 +19,12 @@ This repository contains JFLAP models and diagram snapshots created while practi
 | DFA to regular grammar conversion | [Open grammar](./37_Sahil_Mirchandani_DFA_to_Regular_Grammar_19-10-2026.jff) | [View snapshot](./37_Sahil_Mirchandani_DFA_to_Regular_Grammar_19-10-2026.jff.jpg) |
 | Context-Free Grammar (CFG) | [Open CFG](./37_Sahil_Mirchandani_CFG_19-10-2026.jff) | [View snapshot](./37_Sahil_Mirchandani_CFG_19-10-2026.jff.jpg) |
 | Pushdown Automaton (PDA) | [Open PDA](./37_Sahil_Mirchandani_PDA_19-10-2026.jff) | [View snapshot](./37_Sahil_Mirchandani_PDA_19-10-2026.jff.jpg) |
-| Regular expression to NFA conversion | [Open NFA](./37_Sahil_Mirchandani_RE_TO_NFA_19-10-2026.jff) | [View snapshot](./37_Sahil_Mirchandani_RE_TO_NFA_19-10-2026.jff.jpg) |
+| Regular expression to NFA conversion | [Open NFA](./37_Sahil_Mirchandani_RE_TO_NFA_19-10-2026.jff) | [View diagram](./37_Sahil_Mirchandani_RE_TO_NFA_19-10-2026.svg) |
 | Regular expression to DFA conversion | [Open DFA](./37_Sahil_Mirchandani_RE_to_DFA_19-10-2026.jff) | [View snapshot](./37_Sahil_Mirchandani_RE_to_DFA_19-10-2026.jff.jpg) |
 | One-tape Turing Machine | [Open Turing Machine](./37_Sahil_Mirchandani_One_Tape_Turing_Machine_19-10-2026.jff) | [View snapshot](./37_Sahil_Mirchandani_One_Tape_Turing_Machine_19-10-2026.jff.jpg) |
 | Mealy Machine | [Open Mealy Machine](./37_Sahil_Mirchandani_Mealy_Machine_19-10-2026.jff) | [View snapshot](./37_Sahil_Mirchandani_Mealy_Machine_19-10-2026.jff.jpg) |
 | Moore Machine | [Open Moore Machine](./37_Sahil_Mirchandani_Moore_Machine_19-10-2026.jff) | [View snapshot](./37_Sahil_Mirchandani_Moore_Machine_19-10-2026.jff.jpg) |
+
+## Notes
+
+These are learning/practice artifacts. Verify each model in JFLAP with suitable example inputs before relying on it as a final submission or formal proof.
