@@ -24,7 +24,3 @@ This repository contains JFLAP models and diagram snapshots created while practi
 | One-tape Turing Machine | [Open Turing Machine](./37_Sahil_Mirchandani_One_Tape_Turing_Machine_19-10-2026.jff) | [View snapshot](./37_Sahil_Mirchandani_One_Tape_Turing_Machine_19-10-2026.jff.jpg) |
 | Mealy Machine | [Open Mealy Machine](./37_Sahil_Mirchandani_Mealy_Machine_19-10-2026.jff) | [View snapshot](./37_Sahil_Mirchandani_Mealy_Machine_19-10-2026.jff.jpg) |
 | Moore Machine | [Open Moore Machine](./37_Sahil_Mirchandani_Moore_Machine_19-10-2026.jff) | [View snapshot](./37_Sahil_Mirchandani_Moore_Machine_19-10-2026.jff.jpg) |
-
-## Notes
-
-These files are learning/practice artifacts. Review each model in JFLAP and test it with suitable example inputs before relying on it as a final submission or formal proof.
